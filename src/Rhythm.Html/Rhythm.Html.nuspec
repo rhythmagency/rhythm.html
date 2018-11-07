@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Rhythm.Html</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Rhythm Agency</authors>
+    <owners>Rhythm Agency</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>HTML helper extension methods for use in Razor.</description>
+    <!-- Temporarily add release notes here (uncomment below tag). -->
+    <!--<releaseNotes>Release notes go here...</releaseNotes>-->
+    <copyright>Copyright 2018</copyright>
+    <tags>html razor extensions</tags>
+  </metadata>
+</package>
